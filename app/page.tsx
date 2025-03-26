@@ -3,7 +3,8 @@ import React from 'react'
 
 function page() {
   return (
-    <div>page
+    <div>
+      <p className='text-4xl text-red-600'>NexChat</p>
       <Button>Click me</Button>
     </div>
   )
